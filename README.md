@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ### Frameworks and Libraries
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white"></a>
-<a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgnite-DD4814.svg?logo=laravel&logoColor=white"></a>
+<a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-DD4814.svg?logo=codeigniter&logoColor=white"></a>
 
 
