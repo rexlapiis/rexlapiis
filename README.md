@@ -15,7 +15,7 @@ I am a third-semester Informatics Engineering student. I specialize in developin
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
 <a href="#"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-<a href="#"><img alt="Golang" src="https://img.shields.io/badge/Golang-29BEB0.svg?logo=golang&logoColor=white"></a>
+<a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?logo=go&logoColor=white"></a>
 
 ### Frameworks and Libraries
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
