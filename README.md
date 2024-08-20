@@ -22,3 +22,5 @@ I am a third-semester Informatics Engineering student. I specialize in developin
 <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340.svg?logo=laravel&logoColor=white"></a>
 <a href="#"><img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-DD4814.svg?logo=codeigniter&logoColor=white"></a>
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-A6120D.svg?logo=angular&logoColor=white"></a>
+
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexlapiis)](https://github.com/rexlapiis/github-readme-stats)
