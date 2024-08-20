@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a third-semester Informatics Engineering student. I specialize in developing projects using PHP, Python, and JavaScript. I am committed to continuous improvement and always seeking new opportunities to enhance my skills and knowledge in software development. My goal is to tackle challenging problems and contribute to innovative projects.
+I am a Informatics Engineering student. I specialize in developing projects using PHP, Python, and JavaScript. I am committed to continuous improvement and always seeking new opportunities to enhance my skills and knowledge in software development. My goal is to tackle challenging problems and contribute to innovative projects.
 
 - ⚙️ Currently working as IT Technician
 - 🧠 I’m currently learning React.js, Golang
