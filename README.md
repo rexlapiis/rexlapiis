@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-[![Go](https://pkg.go.dev/badge/golang.org/x/image.svg)](https://pkg.go.dev/golang.org/x/image)
+<a href="https://pkg.go.dev/golang"><img src="https://pkg.go.dev/badge/golang.svg" alt="Go Reference"></a>
 
