@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 ### Frameworks and Libraries
 <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-<a href="#"><img alt="Laravel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Logo.min.svg/1200px-Logo.min.svg?logo=laravel&logoColor=orange"></a>
+![Laravel](https://img.shields.io/badge/Framework-Laravel-brightgreen)
 
