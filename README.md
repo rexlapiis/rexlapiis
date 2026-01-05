@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an Computer Science student specializing in developing projects using PHP, Python, and JavaScript. I am committed to continuous improvement and always seek new opportunities to enhance my skills and knowledge in software development. My goal is to tackle challenging problems and contribute to innovative projects
+I am a Computer Science student specializing in developing projects using PHP, Python, and JavaScript. I am committed to continuous improvement and always seek new opportunities to enhance my skills and knowledge in software development. My goal is to tackle challenging problems and contribute to innovative projects
 
 - ⚙️ Currently working as IT Support
 - 🧠 I’m currently learning React.js, Golang
